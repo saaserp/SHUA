@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\CommonLib.dll
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.frmMain.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\CommonLib.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\CCleaner.exe
+c:\users\administrator\documents\visual studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\ccleaner.ini
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Login.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Login.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Main.exe.config

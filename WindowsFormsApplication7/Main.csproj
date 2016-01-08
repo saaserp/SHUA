@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{12C10374-2335-4C82-98ED-BE7F75AB1DE1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>x86</RootNamespace>
+    <AssemblyName>x86</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>未标题-1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.SHDocVw">
+      <HintPath>..\..\..\..\..\Desktop\淘流精灵\淘流精灵\Interop.SHDocVw.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppConfig.cs" />
+    <Compile Include="Chongzhijilu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chongzhijilu.Designer.cs">
+      <DependentUpon>Chongzhijilu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimeSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EWebBrowser.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_myWords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ww.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="idForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="taobaofrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wotuijiande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wotuijiande.Designer.cs">
+      <DependentUpon>Wotuijiande.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Chongzhijilu.resx">
+      <DependentUpon>Chongzhijilu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimeSelect.resx">
+      <DependentUpon>DateTimeSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_myWords.resx">
+      <DependentUpon>frm_myWords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ww.resx">
+      <DependentUpon>frm_ww.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Wotuijiande.resx">
+      <DependentUpon>Wotuijiande.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ccleaner.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Desktop\commonlib\CommonLib\CommonLib.csproj">
+      <Project>{ecbe7360-3be2-4684-b673-30c301d94340}</Project>
+      <Name>CommonLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CCleaner.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cloudservice.ico" />
+    <Content Include="未标题-1.ico" />
+    <None Include="Resources\qrcode_for_gh_cc2cf53cce14_430.jpg" />
+    <None Include="Resources\button_old_11.gif" />
+    <None Include="Resources\mvipcar2.png" />
+    <None Include="Resources\mvipcar1.png" />
+    <None Include="Resources\mvipcar0.png" />
+    <None Include="Resources\mvip9.jpg" />
+    <None Include="Resources\mvip9 %281%29.jpg" />
+    <None Include="Resources\vipcar2.png" />
+    <None Include="Resources\vipcar1.png" />
+    <None Include="Resources\vipcar0.png" />
+    <None Include="Resources\vip9.jpg" />
+    <None Include="Resources\vip9 %281%29.jpg" />
+    <None Include="Resources\car5-%281%291.png" />
+    <None Include="Resources\car52.png" />
+    <None Include="Resources\car51.png" />
+    <None Include="Resources\car5 %281%29.png" />
+    <None Include="Resources\car41.png" />
+    <None Include="Resources\car31.png" />
+    <None Include="Resources\car21.png" />
+    <None Include="Resources\car11.png" />
+    <None Include="Resources\car01.png" />
+    <None Include="Resources\car0.png" />
+    <None Include="Resources\car1.png" />
+    <None Include="Resources\car2.png" />
+    <None Include="Resources\car3.png" />
+    <None Include="Resources\car4.png" />
+    <None Include="Resources\car5-%281%29.png" />
+    <None Include="Resources\car5.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

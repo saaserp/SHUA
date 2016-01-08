@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Login.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\CCleaner.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\ccleaner.ini
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Login.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Login.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\CommonLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\CommonLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.LoginForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.frmReg.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.pdb

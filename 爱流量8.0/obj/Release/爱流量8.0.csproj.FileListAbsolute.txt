@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\bin\Release\爱流量8.0.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\爱流量8.0.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\Login.frmReg.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\Login.LoginForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\爱流量8._0.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\爱流量8.0.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\爱流量8._0.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\爱流量8._0.LoginForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\爱流量8.0\obj\Release\爱流量8._0.frmReg.resources

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\bin\Release\Test.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\bin\Release\Test.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\bin\Release\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\obj\Release\Test.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\obj\Release\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\bin\Release\x64.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Test\bin\Release\x64.pdb

@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\CCleaner.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\ccleaner.ini
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\CommonLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\CommonLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.DateTimeSelect.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Main.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Chongzhijilu.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.frm_myWords.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.frm_ww.resources

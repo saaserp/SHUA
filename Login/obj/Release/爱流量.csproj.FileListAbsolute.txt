@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\爱流量.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.LoginForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.frmReg.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\爱流量.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\CCleaner.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\ccleaner.ini
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\爱流量 ——店铺流量神器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\CommonLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Interop.SHDocVw.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\CommonLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\爱流量 ——店铺流量神器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Login.RegForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\爱流量 ——店铺流量神器.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Release\爱流量 ——店铺流量神器.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\爱流量 ——店铺流量神器.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Start.LoginForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Start.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Start.frmReg.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Release\Start.RegForm.resources

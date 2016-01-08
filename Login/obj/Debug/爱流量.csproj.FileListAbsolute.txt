@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\CCleaner.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\ccleaner.ini
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\CommonLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\CommonLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\爱流量.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\Login.LoginForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\Login.frmReg.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\爱流量.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\爱流量 ——店铺流量神器.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\爱流量 ——店铺流量神器.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\bin\Debug\爱流量 ——店铺流量神器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\爱流量 ——店铺流量神器.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WindowsFormsApplication7\Login\obj\Debug\爱流量 ——店铺流量神器.pdb
